@@ -86,7 +86,8 @@ o Tables are printed using Rich for better visual clarity.
 
 o Modular, object-oriented structure using interface and DAO layers.
 
-# 📸 Sample Output
+# output:
+ 📸 Sample Output
 +-----------+------------+------------+--------------+--------------------------+--------------+-----------+------------+
 | Incident  | Type       | Date       | Location     | Description              | Status       | Victim ID | Suspect ID |
 +-----------+------------+------------+--------------+--------------------------+--------------+-----------+------------+
