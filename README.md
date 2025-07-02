@@ -3,7 +3,8 @@ A menu-driven Python application to manage and analyze crime-related data includ
 
 🗂️ Project Structure
 CrimeAnalysisSystem/
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b64a5757-ab83-42c8-a07f-f00f40edf77c)
+
 
 
 📌 Features
