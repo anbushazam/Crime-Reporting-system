@@ -3,31 +3,7 @@ A menu-driven Python application to manage and analyze crime-related data includ
 
 🗂️ Project Structure
 CrimeAnalysisSystem/
-│
-├── dao/
-│   ├── icarService.py
-│   ├── iCrimeAnalysisServiceImpl.py
-│
-├── entity/
-│   ├── incident.py
-│   ├── Victim.py
-│   ├── Suspect.py
-│   ├── Case.py
-│
-├── util/
-│   ├── database_connection.py
-│   ├── db.properties
-│
-├── exception/
-│   ├── myexceptions.py
-│
-├── main/
-│   ├── main.py
-│
-├── tests/
-│   ├── test_cases.py
-│
-└── README.md
+![Uploading image.png…]()
 
 
 📌 Features
